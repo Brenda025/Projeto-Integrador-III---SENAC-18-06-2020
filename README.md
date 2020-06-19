@@ -4,5 +4,5 @@ Projeto da faculdade Senac
 Integrantes
 
 Brenda Ferreira Lima da Silva,                                                                                                         Luana Ferreira de Almeida,
-                                                                                                                                           Karen Santos Bomfim,
-                                                                                                                                      Marcio Santos Zuffa, 
+                                                                                                                                           Karen Santos Bomfim e
+                                                                                                                                      Marcio Santos Zuffa
